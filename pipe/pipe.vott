@@ -1,0 +1,202 @@
+{
+    "name": "pipe",
+    "sourceConnection": {
+        "name": "pi-depth",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTcyMTFhNWZiY2VhNjFlM2FkMTk4MjYxYzMxOTgzMWFkZTY3NWNlYzc4OGJkMjFiOTRlZDc4MTk0NDliZDIzNjI5NjQ1NDRjMzczMTY0Y2UzZjFkNmZiYTA4YzRjZDMyOGIyMzA1YWM0ZGM4Y2M0MDA3NTY4NDc5ZDg2MjI1ZGRkY2E3ZjhhZGNjNzY0YzI4ZWMxMmE5ODBhZDdjYWVhOSIsIml2IjoiYTA1MzEyMmFkMjdlYmRlNmM5ZmYyZTNjOWYxY2Q3NTc0MGQyODg2NWE5OGRlYzBlIn0="
+        },
+        "id": "yDpzhKi4A"
+    },
+    "targetConnection": {
+        "name": "pi-depth",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODY1NGVmZmQwMDhjMmMwNDVmM2RjZWE4MGFjYmVkYmU2ZDA5MTZiYjY5MGUzNDkyYmRlNDU3YTE4YTgwNmU5YzY4MzExNWMwYWI5ZjE0YzE0NDRkNTU3OThlNWZkYTBjMjEyOThmMTQ4MmUzYWZjYjE2YjM3Y2E0OGU1MzZjM2EyYzFmMjZiYTIzZTA0MDA1OGMxY2ZlYWVlMTQ5MDFiZSIsIml2IjoiYjc1MDhhMTI1OWMwODIwYWM2YTZkYjNkNTRmMTlhY2VkMzIwOWNhZTQwM2IwODc2In0="
+        },
+        "id": "yDpzhKi4A"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "curve",
+            "color": "#5db300"
+        }
+    ],
+    "useSecurityToken": true,
+    "securityToken": "pipe Token",
+    "id": "gXC_5QHlM",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjc2Mjg4ODk2YWU0NGY5MTgxZGNmN2EwN2VkNTU4NzRiNTQ1OTk0NWU5OWI4YTIwOWY0N2YxZjBkYzM1MjgyZThlOTI5NGU5YjM4Y2E0Nzg2MGY3ODc3OWE0ODQyZDBiIiwiaXYiOiI5ZTQ5M2IzZjllNTdiOGYwOTllZjcxZGNkM2EwNDg3NTYzNjYyOTE2YjgzZjkwZDQifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "8a617df2ffb05843b83fabf37cc30671",
+    "assets": {
+        "b9dd9eab924a4f1e751ff082f9ad7173": {
+            "format": "png",
+            "id": "b9dd9eab924a4f1e751ff082f9ad7173",
+            "name": "001026.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001026.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11661935593997bfb21fc554c1326537": {
+            "format": "png",
+            "id": "11661935593997bfb21fc554c1326537",
+            "name": "001156.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001156.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c6753093c351c6faef7b5930cf9a84a": {
+            "format": "png",
+            "id": "6c6753093c351c6faef7b5930cf9a84a",
+            "name": "001296.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001296.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "918312db784f43210dd6e0d9fe38885d": {
+            "format": "png",
+            "id": "918312db784f43210dd6e0d9fe38885d",
+            "name": "001383.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001383.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31192bbe621215ca6b9c615668eb0a63": {
+            "format": "png",
+            "id": "31192bbe621215ca6b9c615668eb0a63",
+            "name": "001454.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001454.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "376aaaf353e5d1371fb6e30d97492c55": {
+            "format": "png",
+            "id": "376aaaf353e5d1371fb6e30d97492c55",
+            "name": "001517.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001517.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8de2acd74ce0441dd6a3a2663f66bc5": {
+            "format": "png",
+            "id": "d8de2acd74ce0441dd6a3a2663f66bc5",
+            "name": "001630.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001630.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f161cff84c78b6a93a66393c921849f": {
+            "format": "png",
+            "id": "4f161cff84c78b6a93a66393c921849f",
+            "name": "001671.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001671.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6238c9b41aef345f528c8ee94c3ae543": {
+            "format": "png",
+            "id": "6238c9b41aef345f528c8ee94c3ae543",
+            "name": "001807.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/001807.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c71db1012cc6acf7df2719a79075fb05": {
+            "format": "png",
+            "id": "c71db1012cc6acf7df2719a79075fb05",
+            "name": "002012.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/002012.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7360309bde368a0c8f05575a4f7079e": {
+            "format": "png",
+            "id": "d7360309bde368a0c8f05575a4f7079e",
+            "name": "002075.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/002075.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eef8309cd01015a24144a4507120fabf": {
+            "format": "png",
+            "id": "eef8309cd01015a24144a4507120fabf",
+            "name": "002606.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/002606.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a617df2ffb05843b83fabf37cc30671": {
+            "format": "png",
+            "id": "8a617df2ffb05843b83fabf37cc30671",
+            "name": "003047.png",
+            "path": "file:/home/mukuyo/ws/dl_ws/dataset/pipe/003047.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
